@@ -81,10 +81,10 @@
         <mxCell id="1Bdu5iNquNwyzNNcDmj3-10" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1Bdu5iNquNwyzNNcDmj3-7">
           <mxGeometry y="78" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="1Bdu5iNquNwyzNNcDmj3-11" value="Is Eligible To Enroll" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="1Bdu5iNquNwyzNNcDmj3-7">
+        <mxCell id="1Bdu5iNquNwyzNNcDmj3-11" value="+cut" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="1Bdu5iNquNwyzNNcDmj3-7">
           <mxGeometry y="86" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1Bdu5iNquNwyzNNcDmj3-12" value="Get Seminars Taken" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1Bdu5iNquNwyzNNcDmj3-7">
+        <mxCell id="1Bdu5iNquNwyzNNcDmj3-12" value="+box" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1Bdu5iNquNwyzNNcDmj3-7">
           <mxGeometry y="112" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
